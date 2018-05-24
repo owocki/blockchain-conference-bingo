@@ -1,4 +1,4 @@
-# Blockcahin Conference Bingo.
+# Blockchain Conference Bingo.
 
 # How to use it.
 
